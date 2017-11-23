@@ -10,7 +10,7 @@ force random initialization of reinforcement learning weights.
 
 (b) is produced with 3tAE.ipynb code by deleting the line "immitate()" to force
 random initialization of reinforcement learning weights.
-tAE is pre-trained from the game-play files produced in (a)
+tAE is pre-trained from the game-play files produced in (c)
 
 (d) is produced with 2Karpathy.ipynb code.
 Reinforcement learning weights are pre-trained in supervised manner from
